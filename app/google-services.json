@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821445752729",
+    "firebase_url": "https://travelsmart-d8e23.firebaseio.com",
+    "project_id": "travelsmart-d8e23",
+    "storage_bucket": "travelsmart-d8e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821445752729:android:2ed0af6a9d6c499b",
+        "android_client_info": {
+          "package_name": "me.saurav.travelsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821445752729-8kv1fpdnbfl4bs6lumdns22t3l96mmfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.saurav.travelsmart",
+            "certificate_hash": "0786a01f7903e8ec912ab24a4bebde36db8094e3"
+          }
+        },
+        {
+          "client_id": "821445752729-at8dfrb2h22d3k7aaqeucnkv0t3cvoi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxRyQ5Cx--Pzz761s4QBuazs3KP-ew1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821445752729-at8dfrb2h22d3k7aaqeucnkv0t3cvoi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

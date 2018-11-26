@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimary">#185890</color>
+    <color name="colorPrimaryDark">#134471</color>
+    <color name="colorAccent">#FFC107</color>
+
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#FFDEDADA</color>
+    <color name="material_grey">#616161</color>
+    <color name="widePosterBG">#ddd</color>
+    <color name="category_title">#4c4c4c</color>
+    <color name="cityBG">#f1f5f8</color>
+    <color name="dark">#55464646</color>
+
+    <!-- Intro swipe layout colors-->
+    <color name="bg_screen1">#f26149</color>
+    <color name="bg_screen2">#f26149</color>
+    <color name="bg_screen3">#f26149</color>
+    <color name="bg_screen4">#f26149</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#02b7f5</color>
+    <color name="dot_dark_screen2">#02b7f5</color>
+    <color name="dot_dark_screen3">#02b7f5</color>
+    <color name="dot_dark_screen4">#02b7f5</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#25b4b3</color>
+    <color name="dot_light_screen2">#25b4b3</color>
+    <color name="dot_light_screen3">#25b4b3</color>
+    <color name="dot_light_screen4">#25b4b3</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+</resources>

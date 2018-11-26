@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606410125998",
+    "firebase_url": "https://trippie-14252.firebaseio.com",
+    "project_id": "trippie-14252",
+    "storage_bucket": "trippie-14252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606410125998:android:49efc0db73f9941a",
+        "android_client_info": {
+          "package_name": "me.saurav.travelsmart.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606410125998-cjec67fglgr3b52h0l0dqdlp211v7c44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE89a4WmQZiz20KFfGg2A8jmuqDWRNaaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+			{
+              "client_id": "606410125998-cjec67fglgr3b52h0l0dqdlp211v7c44.apps.googleusercontent.com",
+              "client_type": 3
+            }  
+		  ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
